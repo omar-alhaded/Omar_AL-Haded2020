@@ -48,8 +48,25 @@ $('.nav-tabs')['addClass']('fl')['css']('width', '100%');
 
 $('.nav-tabs')['addClass']('fl')['css']('width', '100%');
 
-$(`${'<link rel="stylesheet" type="text/css" href="">\x0D\x0A\x0D\x0A<link href="https://rawcdn.githack.com/omar-alhaded/Omar_AL-Haded2020/844067394aff1b1d3a4439cf9a26fea7567c3e48/Omar_AL-Haded-1.css" rel="stylesheet" type="text/css" />\x0D\x0A<link href="https://rawcdn.githack.com/omar-alhaded/Omar_AL-Haded2020/844067394aff1b1d3a4439cf9a26fea7567c3e48/Omar_AL-Haded-2.css" media="screen" rel="alternate stylesheet" title="Co2" type="text/css" />\x0D\x0A<link href="https://rawcdn.githack.com/omar-alhaded/Omar_AL-Haded2020/844067394aff1b1d3a4439cf9a26fea7567c3e48/Omar_AL-Haded-3.css" media="screen" rel="alternate stylesheet" title="Co3" type="text/css" />\x0D\x0A<link href="https://rawcdn.githack.com/omar-alhaded/Omar_AL-Haded2020/844067394aff1b1d3a4439cf9a26fea7567c3e48/Omar_AL-Haded-4.css" media="screen" rel="alternate stylesheet" title="Co4" type="text/css" />\x0D\x0A<link href="https://rawcdn.githack.com/omar-alhaded/Omar_AL-Haded2020/844067394aff1b1d3a4439cf9a26fea7567c3e48/Omar_AL-Haded-5.css" media="screen" rel="alternate stylesheet" title="Co5" type="text/css" />\x0D\x0A<link href="https://rawcdn.githack.com/omar-alhaded/Omar_AL-Haded2020/844067394aff1b1d3a4439cf9a26fea7567c3e48/Omar_AL-Haded-6.css" media="screen" rel="alternate stylesheet" title="Co6" type="text/css" />\x0D\x0A<link href="https://rawcdn.githack.com/omar-alhaded/Omar_AL-Haded2020/844067394aff1b1d3a4439cf9a26fea7567c3e48/Omar_AL-Haded-7.css" media="screen" rel="alternate stylesheet" title="Co7" type="text/css" />\x0D\x0A<link href="https://rawcdn.githack.com/omar-alhaded/Omar_AL-Haded2020/844067394aff1b1d3a4439cf9a26fea7567c3e48/Omar_AL-Haded-8.css" media="screen" rel="alternate stylesheet" title="Co8" type="text/css" />\x0D\x0A<style>\x0D\x0A\x0D\x0A\x0D\x0A\x0D\x0A\x0D\x0A\x0D\x0Adiv#d0 {width: 100%;-webkit-transform: matrix(1, 0, 0, 1, 47, 0);-moz-transform: matrix(1, 0, 0, 1, 47, 0);-o-transform: matrix(1, 0, 0, 1, 47, 0);-ms-transform: matrix(1, 0, 0, 1, 47, 0);transform: matrix(1, 0, 0, 1, 47, 0);padding: 0px 0px 0px 1px;margin: 1px 0px 0px 0px;}\x0D\x0A\x0D\x0A\x0D\x0A\x0D\x0A.MyColors {\x0D\x0A    position: absolute;\x0D\x0A    transform:matrix(1, 0, 0, 1, -52, 0);\x0D\x0A   margin-top: 2px;\x0D\x0A    width: 300px;\x0D\x0A    height: 60px;\x0D\x0A    float: left;\x0D\x0A    background: transparent url(https://chatnsh.com/sico/z1ehhnbptv10.png) no-repeat scroll right top;\x0D\x0A    text-align: left;\x0D\x0A}\x0D\x0A\x0D\x0A.fr.borderg, .fr.borderg a {\x0D\x0A    font-size: 10px!important;\x0D\x0A    padding: 0 5px!important;\x0D\x0A}\x0D\x0A\x0D\x0A.fr.borderg, .fr.borderg a {\x0D\x0A    margin-top: 4px;\x0D\x0A}\x0D\x0A\x0D\x0A.hmsg {background-color: rgb(235, 241, 255)!important;}\x0D\x0Aa.label.label-primary.fl {display: none}\x0D\x0A#des1 {margin-bottom: 2px;font-family: \'El Messiri\',FontAwesome!important;    background-image: linear-gradient(90deg,#d0d0d0 0,#bababa 10%,#908f8f 51%,#bababa 89%,#d0d0d0 100%);color: #f9f9f9;border-radius: 3px;padding: 4px 0!important;padding-bottom: 3px;}\x0D\x0A\x0D\x0A\x0D\x0A\x0D\x0A</style>\x0D\x0A'}`['insertBefore']('body');
+$(`<link rel="stylesheet" type="text/css" href="">
 
+  <link href="https://rawcdn.githack.com/waleed-qaid/1des/e96eeec1f32cd173ce0b43d4ef0a72669679ade9/www.1des.net-chatt-www.nbd-oman.com1.css" rel="stylesheet" type="text/css">
+
+  <link href="https://rawcdn.githack.com/waleed-qaid/1des/e96eeec1f32cd173ce0b43d4ef0a72669679ade9/www.1des.net-chatt-www.nbd-oman.com2.css" media="screen" rel="alternate stylesheet" title="Co2" type="text/css">
+
+  <link href="https://rawcdn.githack.com/waleed-qaid/1des/e96eeec1f32cd173ce0b43d4ef0a72669679ade9/www.1des.net-chatt-www.nbd-oman.com3.css" media="screen" rel="alternate stylesheet" title="Co3" type="text/css">
+
+  <link href="https://rawcdn.githack.com/waleed-qaid/1des/e96eeec1f32cd173ce0b43d4ef0a72669679ade9/www.1des.net-chatt-www.nbd-oman.com4.css" media="screen" rel="alternate stylesheet" title="Co4" type="text/css">
+
+  <link href="https://rawcdn.githack.com/waleed-qaid/1des/e96eeec1f32cd173ce0b43d4ef0a72669679ade9/www.1des.net-chatt-www.nbd-oman.com5.css" media="screen" rel="alternate stylesheet" title="Co5" type="text/css">
+
+  <link href="https://rawcdn.githack.com/waleed-qaid/1des/e96eeec1f32cd173ce0b43d4ef0a72669679ade9/www.1des.net-chatt-www.nbd-oman.com6.css" media="screen" rel="alternate stylesheet" title="Co6" type="text/css">
+
+  <link href="https://rawcdn.githack.com/waleed-qaid/1des/e96eeec1f32cd173ce0b43d4ef0a72669679ade9/www.1des.net-chatt-www.nbd-oman.com7.css" media="screen" rel="alternate stylesheet" title="Co7" type="text/css">
+
+  <link href="https://rawcdn.githack.com/waleed-qaid/1des/e96eeec1f32cd173ce0b43d4ef0a72669679ade9/www.1des.net-chatt-www.nbd-oman.com8.css" media="screen" rel="alternate stylesheet" title="Co8" type="text/css"></style>`).insertBefore('body');
+
+  
 $('.u-pic')['css']('border-radius', '3px');
 
 $('button.btn.btn-primary')['css']('border-radius', '5px');
