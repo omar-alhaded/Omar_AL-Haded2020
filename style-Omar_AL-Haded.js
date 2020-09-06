@@ -64,7 +64,38 @@ $(`<link rel="stylesheet" type="text/css" href="">
 
   <link href="https://rawcdn.githack.com/waleed-qaid/1des/e96eeec1f32cd173ce0b43d4ef0a72669679ade9/www.1des.net-chatt-www.nbd-oman.com7.css" media="screen" rel="alternate stylesheet" title="Co7" type="text/css">
 
-  <link href="https://rawcdn.githack.com/waleed-qaid/1des/e96eeec1f32cd173ce0b43d4ef0a72669679ade9/www.1des.net-chatt-www.nbd-oman.com8.css" media="screen" rel="alternate stylesheet" title="Co8" type="text/css"></style>`).insertBefore('body');
+  <link href="https://rawcdn.githack.com/waleed-qaid/1des/e96eeec1f32cd173ce0b43d4ef0a72669679ade9/www.1des.net-chatt-www.nbd-oman.com8.css" media="screen" rel="alternate stylesheet" title="Co8" type="text/css">
+</style>
+div#d0 {width: 100%;-webkit-transform: matrix(1, 0, 0, 1, 47, 0);-moz-transform: matrix(1, 0, 0, 1, 47, 0);-o-transform: matrix(1, 0, 0, 1, 47, 0);-ms-transform: matrix(1, 0, 0, 1, 47, 0);transform: matrix(1, 0, 0, 1, 47, 0);padding: 0px 0px 0px 1px;margin: 1px 0px 0px 0px;}
+
+
+
+.MyColors {
+    position: absolute;
+	transform:matrix(1, 0, 0, 1, -52, 0);
+	margin-top: 2px;
+    width: 300px;
+    height: 60px;
+    float: left;
+    background: transparent url(https://nbd-oman.com/sico/z1e4p1cca110.png) no-repeat scroll right top;
+    text-align: left;
+}
+
+.fr.borderg, .fr.borderg a {
+    font-size: 10px!important;
+    padding: 0 5px!important;
+}
+
+.fr.borderg, .fr.borderg a {
+    margin-top: 4px;
+}
+
+.hmsg {background-color: rgb(235, 241, 255)!important;}
+a.label.label-primary.fl {display: none}
+#des1 {margin-bottom: 2px;font-family: 'El Messiri',FontAwesome!important;    background-image: linear-gradient(90deg,#d0d0d0 0,#bababa 10%,#908f8f 51%,#bababa 89%,#d0d0d0 100%);color: #f9f9f9;border-radius: 3px;padding: 4px 0!important;padding-bottom: 3px;}
+
+</style>
+`).insertBefore('body');
 
   
 $('.u-pic')['css']('border-radius', '3px');
